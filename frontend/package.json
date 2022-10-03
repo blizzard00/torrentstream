@@ -13,7 +13,7 @@
         "@types/react-router-dom": "^5.1.8",
         "@types/react-select": "^4.0.17",
         "@types/video.js": "^7.3.26",
-        "bootstrap": "^5.0.2",
+        "bootstrap": "^5.2.2",
         "classnames": "^2.3.1",
         "ismobilejs": "^1.1.1",
         "node-sass": "^6.0.1",
